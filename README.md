@@ -4,7 +4,7 @@
 
 ## Teknologi yang digunakan
 
-Pada project ini kamu akan memvisualisasikan data [Persentase Lulusan S1 di setiap Negara Bagian di Amerika Serikat](https://cdn.freecodecamp.org/testable-projects-fcc/data/choropleth_map/for_user_education.json). Selain data pendidikan kamu juga membutuhkan [Data Peta Topology Amerika Serikat](https://cdn.freecodecamp.org/testable-projects-fcc/data/choropleth_map/counties.json) menggunakan HTML, CSS, dan [D3.js](https://d3js.org/) dalam bentuk [Choropleth Map](https://datavizcatalogue.com/methods/choropleth.html). Beberapa User Stories telah disediakan untuk membantu kamu menghasilkan visualisasi yang interaktif dan sesuai. Berikut adalah daftar User Storiesnya 👇
+Pada project ini kamu diberikan data [Persentase Lulusan S1 di setiap Negara Bagian di Amerika Serikat](https://cdn.freecodecamp.org/testable-projects-fcc/data/choropleth_map/for_user_education.json) dan [Data Peta Topology Amerika Serikat](https://cdn.freecodecamp.org/testable-projects-fcc/data/choropleth_map/counties.json). Kamu akan memvisualisaikan hubungan antara kedua data tersebut menggunakan HTML, CSS, dan [D3.js](https://d3js.org/) dalam bentuk [Choropleth Map](https://datavizcatalogue.com/methods/choropleth.html). Beberapa User Stories telah disediakan untuk membantu kamu menghasilkan visualisasi yang interaktif dan sesuai. Berikut adalah daftar User Storiesnya 👇
 
 ## User Stories:
 
